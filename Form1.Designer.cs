@@ -94,7 +94,7 @@
             this.expfield.BackColor = System.Drawing.SystemColors.ScrollBar;
             this.expfield.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.expfield.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.expfield.Location = new System.Drawing.Point(260, 180);
+            this.expfield.Location = new System.Drawing.Point(260, 179);
             this.expfield.Name = "expfield";
             this.expfield.Size = new System.Drawing.Size(36, 22);
             this.expfield.TabIndex = 0;
